@@ -1,0 +1,59 @@
+{
+	"basics": {
+		"name": "Prasoon Kumar",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/76505015?s=400&u=28763dc9eb3c58958423500160bd70302a168892&v=4",
+		"email": "2020kucp1066@iiitkota.ac.in",
+		"phone": "7905751620",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Indira Nagar",
+			"postalCode": "226016",
+			"city": "Lucknow",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Prasoon__K",
+				"url": "https://www.twitter.com/Prasoon__K"
+			},
+			{
+				"network": "Github",
+				"username": "Prasoon2050",
+				"url": "https://www.github.com/Prasoon2050/"
+			},
+			{
+				"network": "linkedin",
+				"username": "prasoon-kumar-089234201",
+				"url": "https:linkedin.com/in/prasoon-kumar-089234201"
+			},
+			{
+				"network": "Instagram",
+				"username": "prasoon__kr",
+				"url": "https://instagram.com/prasoon__kr"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Computer Science and Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-10 //Date",
+		"endYear": "2024",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Php"]
+	}],
+	"interests": [{
+		"name": "Esports",
+		"keywords": ["Fps Games"]
+	}],
+	"references": []
+}
